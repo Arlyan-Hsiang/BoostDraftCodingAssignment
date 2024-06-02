@@ -31,4 +31,4 @@ Usage
 
 Open a command prompt and navigate to the directory where XmlValidator.dll is located. Use the following command to run the executable with an XML string as an argument.
 
-XmlValidator.dll "<Design><Code>hello world</Code></Design>"
+XmlValidator.dll "<Design>"
