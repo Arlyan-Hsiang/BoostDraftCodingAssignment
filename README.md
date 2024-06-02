@@ -31,4 +31,9 @@ Usage
 
 Open a command prompt and navigate to the directory where XmlValidator.dll is located. Use the following command to run the executable with an XML string as an argument.
 
-XmlValidator.dll "A"
+    XmlValidator.dll "A"
+
+Conclusion
+
+This pull request implements a robust XML validator console application with comprehensive error handling and unit tests. It provides clear and concise validation of XML strings, ensuring well-formedness and proper nesting of elements.
+
